@@ -1,0 +1,24 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "Koray Asili Express.js boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasilioglu/ExpressWorks.git"
+  },
+  "author": "Koray Asilioglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasilioglu/ExpressWorks/issues"
+  },
+  "homepage": "https://github.com/kasilioglu/ExpressWorks#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
